@@ -1,0 +1,16 @@
+# Keil IDE
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak
+*.uvgui.*
+
+# Build outputs
+Listings/
+Objects/
+
+# Debug config
+DebugConfig/
+
+# OS junk
+Thumbs.db
+*.DS_Store
